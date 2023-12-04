@@ -1,0 +1,14 @@
+C:\Users\Win-64\Desktop\oop lab1\bin\Debug\net8.0\oop lab1.exe
+C:\Users\Win-64\Desktop\oop lab1\bin\Debug\net8.0\oop lab1.deps.json
+C:\Users\Win-64\Desktop\oop lab1\bin\Debug\net8.0\oop lab1.runtimeconfig.json
+C:\Users\Win-64\Desktop\oop lab1\bin\Debug\net8.0\oop lab1.dll
+C:\Users\Win-64\Desktop\oop lab1\bin\Debug\net8.0\oop lab1.pdb
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\oop lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\oop lab1.AssemblyInfoInputs.cache
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\oop lab1.AssemblyInfo.cs
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\oop lab1.csproj.CoreCompileInputs.cache
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\oop lab1.dll
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\refint\oop lab1.dll
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\oop lab1.pdb
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\oop lab1.genruntimeconfig.cache
+C:\Users\Win-64\Desktop\oop lab1\obj\Debug\net8.0\ref\oop lab1.dll
